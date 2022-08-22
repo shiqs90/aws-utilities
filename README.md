@@ -1,2 +1,2 @@
 # aws-utilities
-AWS automation related apps/utilities
+AWS automation utilities written in Python
